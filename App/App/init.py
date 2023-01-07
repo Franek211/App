@@ -6,7 +6,7 @@ class initing ():
     sys_corect = "sys-start = yes"
     sys_not_correct = "sys-start = no"
 
-    keys = "C:\\Users\\dedaf\\Desktop\\Wszystko\\Kod\\App\\App"
+    keys = "C:\\Users\\*****\\Desktop\\Wszystko\\Kod\\App\\App"
     os.chdir(keys)
     key = open('key-ss.par')
     sys1 = key.read()
