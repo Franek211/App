@@ -17,7 +17,7 @@ class initing ():
         T_n = input("Do you want to run Terminal (Yes / No):")    
         if T_n == "Yes":
             terminal = "cmd.py"
-            keys = "C:\\Users\\dedaf\\Desktop\\Wszystko\\Kod\\App\\App"
+            keys = "C:\\Users\\*****\\Desktop\\Wszystko\\Kod\\App\\App"
             os.chdir(keys)
             os.startfile(terminal)    
         if T_n == "No":
